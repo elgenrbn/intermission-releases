@@ -1,0 +1,106 @@
+{
+  "name": "Intermission",
+  "subtitle": "Pause now. Resume on cue.",
+  "description": "Pause your music for a few minutes from the app, a widget, Control Centre or the Lock Screen. When the time's up, it comes back by itself, right on time.",
+  "iconURL": "https://elgenrbn.github.io/intermission-releases/icon.png",
+  "tintColor": "#007AFF",
+  "nsfw": false,
+  "featuredApps": [
+    "se.javierbravo.Intermission.pal"
+  ],
+  "apps": [
+    {
+      "name": "Intermission",
+      "bundleIdentifier": "se.javierbravo.Intermission.pal",
+      "marketplaceID": "6826208393",
+      "developerName": "JB",
+      "subtitle": "Pause now. Resume on cue.",
+      "localizedDescription": "Someone at the door, a quick call, a question from across the room: Intermission pauses the music in the Music app for a few minutes and brings it back by itself, right on time.\n\nONE TAP\n• Pause for your default length, or one of three quick-pause lengths you choose.\n• Need something else? Pick any length up to 30 minutes.\n• Add time or cancel while you're paused.\n\nWHEN THE PAUSE ENDS\n• On time: the music comes back by itself at the exact end of the pause, even with the phone locked. No setup needed. Intermission keeps running quietly in the background during a pause, which uses a little more battery.\n• With a reminder, if you prefer: you get a notification with a Resume button, right on the Lock Screen.\n\nEVERYWHERE YOU NEED IT\n• Live Activity on the Lock Screen and in the Dynamic Island, with Resume, add time and Cancel.\n• Home Screen and Lock Screen widgets.\n• Control Centre controls, with a length of your choice: one that ends on time, one with a reminder.\n• Every widget and control works from the Lock Screen, without unlocking.\n• Shortcuts actions.\n\nPRIVATE BY DESIGN\nIntermission collects no data. It uses access to the Music app only to pause and resume it, and notifications only for your reminders. No accounts, no tracking.\n\nFor iPhone and iPad. Pauses last up to 30 minutes.",
+      "iconURL": "https://elgenrbn.github.io/intermission-releases/icon.png",
+      "tintColor": "#007AFF",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/01-idle.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/02-paused.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/03-live-activity.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/04-widgets-controls.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/05-other-length.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/iphone/06-how-pauses-end.png",
+            "width": 1206,
+            "height": 2622
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/ipad/01-idle.png",
+            "width": 2752,
+            "height": 2064
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/ipad/02-paused.png",
+            "width": 2752,
+            "height": 2064
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/ipad/03-widgets-controls.png",
+            "width": 2752,
+            "height": 2064
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/ipad/04-other-length.png",
+            "width": 2752,
+            "height": 2064
+          },
+          {
+            "imageURL": "https://elgenrbn.github.io/intermission-releases/screenshots/ipad/05-how-pauses-end.png",
+            "width": 2752,
+            "height": 2064
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-26",
+          "localizedDescription": "First release.",
+          "downloadURL": "https://elgenrbn.github.io/intermission-releases/releases/1.0/manifest.json",
+          "size": 3896921,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "beta-reports-active",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Intermission pauses the Music app and brings it back when your pause ends."
+        }
+      }
+    }
+  ],
+  "news": []
+}

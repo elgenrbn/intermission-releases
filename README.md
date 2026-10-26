@@ -11,7 +11,7 @@ Music app and Spotify. Requires macOS 15 or later.
 
 ## iPhone and iPad (AltStore PAL, EU)
 
-Coming soon. Once it's available, add this source in AltStore PAL:
+Add this source in AltStore PAL:
 
 ```
 https://elgenrbn.github.io/intermission-releases/source.json
