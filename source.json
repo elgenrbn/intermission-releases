@@ -82,6 +82,15 @@
       },
       "versions": [
         {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-26",
+          "localizedDescription": "First release.",
+          "downloadURL": "https://elgenrbn.github.io/intermission-releases/releases/1.0/manifest.json",
+          "size": 3896921,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.1",
           "buildVersion": "2",
           "date": "2026-10-29",
@@ -99,15 +108,6 @@
             "bc5fa4d8-845c-3b7c-97f9-edd2b5e77b74": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/bc5fa4d8-845c-3b7c-97f9-edd2b5e77b74.ipa",
             "df83d154-a07d-336b-9bf3-93bb12b08365": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/df83d154-a07d-336b-9bf3-93bb12b08365.ipa"
           }
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-10-26",
-          "localizedDescription": "First release.",
-          "downloadURL": "https://elgenrbn.github.io/intermission-releases/releases/1.0/manifest.json",
-          "size": 3896921,
-          "minOSVersion": "27.0"
         }
       ],
       "appPermissions": {
