@@ -82,6 +82,15 @@
       },
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-10-29",
+          "localizedDescription": "• Clearer when Intermission can't pause: if access to Apple Music is off, it explains why and takes you to Settings, also when you pause from a widget or Control Centre.\n• Says so when nothing is playing in the Music app, or when the audio comes from another app (Intermission works with the Music app only).\n• Recognises the Music app playing even without track details, such as radio.",
+          "downloadURL": "https://elgenrbn.github.io/intermission-releases/releases/1.0.1/manifest.json",
+          "size": 3918826,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-10-26",
