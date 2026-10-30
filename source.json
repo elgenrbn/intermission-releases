@@ -86,9 +86,19 @@
           "buildVersion": "2",
           "date": "2026-10-29",
           "localizedDescription": "• Clearer when Intermission can't pause: if access to Apple Music is off, it explains why and takes you to Settings, also when you pause from a widget or Control Centre.\n• Says so when nothing is playing in the Music app, or when the audio comes from another app (Intermission works with the Music app only).\n• Recognises the Music app playing even without track details, such as radio.",
-          "downloadURL": "https://elgenrbn.github.io/intermission-releases/releases/1.0.1/manifest.json",
+          "downloadURL": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/manifest.json",
           "size": 3918826,
-          "minOSVersion": "27.0"
+          "minOSVersion": "27.0",
+          "assetURLs": {
+            "manifest": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/manifest.json",
+            "signature": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/signature",
+            "053a937c-4675-3cc3-8daa-267f8c58a461": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/053a937c-4675-3cc3-8daa-267f8c58a461.ipa",
+            "2d0df4b4-beac-39a8-b2c8-a95347af60aa": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/2d0df4b4-beac-39a8-b2c8-a95347af60aa.ipa",
+            "691d2c49-8a48-3b90-9594-b13a9240a0f2": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/691d2c49-8a48-3b90-9594-b13a9240a0f2.ipa",
+            "6ff90cc9-a3f4-3955-a8f2-d1284e953281": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/6ff90cc9-a3f4-3955-a8f2-d1284e953281.ipa",
+            "bc5fa4d8-845c-3b7c-97f9-edd2b5e77b74": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/bc5fa4d8-845c-3b7c-97f9-edd2b5e77b74.ipa",
+            "df83d154-a07d-336b-9bf3-93bb12b08365": "https://github.com/elgenrbn/intermission-releases/releases/download/pal-1.0.1/df83d154-a07d-336b-9bf3-93bb12b08365.ipa"
+          }
         },
         {
           "version": "1.0",
